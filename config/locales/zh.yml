@@ -8,10 +8,10 @@ zh:
   label_import_source: 来源
   label_import_from_file: 从文件导入
   label_row_number: 行号
-  label_validation_result: is valid?
-  label_import_from_redmine: 从redmine导入
-  error_file_mandatory: File is mandatory
-  error_file_incorrect: Uploaded file is not valid
+  label_validation_result: 是否验证？
+  label_import_from_redmine: 从Redmine导入
+  error_file_mandatory: 文件必须选择！
+  error_file_incorrect: 上传文件格式错误！
   label_get_data_from: 导入数据内容
   label_get_data_from_redmine: 从redmine获取数据
   label_get_data_from_file: 从文件获取数据
@@ -28,14 +28,14 @@ zh:
   label_save_as_template: 保存模板
   label_columns_file_complete: "文件中字段"
   label_map_import: 数据对应
-  label_import_results: Result of import process
-  label_import_failed: Import process has finished with errors
-  label_import_ok: Import process done successfully
+  label_import_results: 导入处理结果
+  label_import_failed: 导入完成，仍存在错误。
+  label_import_ok: 导入成功完成！
   label_import_num_rows: 行数量
   label_edit_mapping: 编辑对应关系
-  error_all_required_filled_not_mapped: All mandatory fields must be mapped
-  error_value_not_exists: Value is not available in redmine!
-  import_details: Import process details
+  error_all_required_filled_not_mapped: 所有的必填字段都必须映射
+  error_value_not_exists: 在Redmine中不存在对应值！
+  import_details: 导入处理明细
   label_import_change_file: 变更文件
   link_back_to_overview: 返回摘要
   link_import_issues: 导入问题
@@ -46,7 +46,7 @@ zh:
   label_edit_template: 编辑
   label_template_file: 模板文件
   field_activity_id: 活动
-  label_import_legend_spent_time: Spent time Values
+  label_import_legend_spent_time: 已用工时
   label_import_deleted: 模板已删除
   label_import_validate: 验证数据
   label_import_import: 导入
