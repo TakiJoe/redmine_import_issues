@@ -14,7 +14,7 @@ class CreateImportActions < ActiveRecord::Migration
 
       t.text :headers
 
-      t.text :log
+      t.longtext :log
 
       t.boolean :is_template
 

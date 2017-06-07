@@ -47,11 +47,11 @@ class ImporterIssuesController < ApplicationController
         redirect_to prepare_project_importer_issue_path(@project, @import)
       else
         flash[:error] = l(:error_file_incorrect)
-        redirect_to project_import_issues_path(@project)
+        redirect_to project_importer_issues_path(@project)
       end
     else
       flash[:error] = l(:error_file_mandatory)
-      redirect_to project_import_issues_path(@project)
+      redirect_to project_importer_issues_path(@project)
     end    
   end
   
