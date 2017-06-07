@@ -1,0 +1,53 @@
+zh:
+  
+  label_importer_issues: 导入
+  label_source_file: 文件
+  label_source_redmine: Redmine
+  label_source_ignore: 忽略导入
+  label_import_legend: 里程碑
+  label_import_source: 来源
+  label_import_from_file: 从文件导入
+  label_row_number: 行号
+  label_validation_result: is valid?
+  label_import_from_redmine: 从redmine导入
+  error_file_mandatory: File is mandatory
+  error_file_incorrect: Uploaded file is not valid
+  label_get_data_from: 导入数据内容
+  label_get_data_from_redmine: 从redmine获取数据
+  label_get_data_from_file: 从文件获取数据
+  label_no_import_field: 该字段不导入
+  label_import_templates: 导入模板
+  label_in_progress_actions: 导入未完成
+  label_destination_tracker: 跟踪标签
+  label_source_file: 文件
+  label_use_template: 使用
+  label_template: 模板
+  label_template_description: 描述
+  label_recover_action: 恢复
+  label_overview_template: 总览
+  label_save_as_template: 保存模板
+  label_columns_file_complete: "文件中字段"
+  label_map_import: 数据对应
+  label_import_results: Result of import process
+  label_import_failed: Import process has finished with errors
+  label_import_ok: Import process done successfully
+  label_import_num_rows: 行数量
+  label_edit_mapping: 编辑对应关系
+  error_all_required_filled_not_mapped: All mandatory fields must be mapped
+  error_value_not_exists: Value is not available in redmine!
+  import_details: Import process details
+  label_import_change_file: 变更文件
+  link_back_to_overview: 返回摘要
+  link_import_issues: 导入问题
+  fields_for_update: 更新问题的主键
+  label_save_as_template: 保存为模板
+  label_template_name: 模板名称
+  label_use_template: 使用
+  label_edit_template: 编辑
+  label_template_file: 模板文件
+  field_activity_id: 活动
+  label_import_legend_spent_time: Spent time Values
+  label_import_deleted: 模板已删除
+  label_import_validate: 验证数据
+  label_import_import: 导入
+  field_users: 用户
